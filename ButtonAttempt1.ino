@@ -1,3 +1,5 @@
+/* This is the first time we tried to use a button. */
+
 // Pin 13 has an LED connected on most Arduino boards.
 // give it a name:
 int led = 4;
